@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>영상디자인과</item>
+        <item>시각디자인과</item>
+        <item>패션디자인과</item>
+        <item>셤유의상코디과</item>
+        <item>E-스포츠과</item>
+        <item>환경조경과</item>
+        <item>가드닝전공</item>
+        <item>플로리스트전공</item>
+        <item>애견동물과</item>
+        <item>바이오생명과학과</item>
+        <item>유아교육과</item>
+        <item>식픔영양과</item>
+        <item>호텔외식베이커리과</item>
+        <item>사진영상미디어과</item>
+        <item>그래픽커뮤니케이션과</item>
+        <item>미디어콘텐츠과</item>
+        <item>IT소프트웨어과</item>
+        <item>AI소프트웨어과</item>
+        <item>정보통신보안과</item>
+        <item>VR게임콘텐츠과</item>
+        <item>마케팅학과</item>
+        <item>스마트사무경영과</item>
+        <item>세무회계과</item>
+        <item>호텔관광과</item>
+        <item>관광서비스중국어과</item>
+        <item>항공서비스과</item>
+        <item>사회복지과</item>
+        <item>보육복지과</item>
+        <item>물리치료학과</item>
+        <item>방사선학과</item>
+        <item>치위생학과</item>
+        <item>뷰티케어과</item>
+        <item>보건의료행정학과</item>
+        <item>스포츠재활과</item>
+        <item>스마트건설정보과</item>
+        <item>지적공간정보학과</item>
+        <item>실내건축과</item>
+        <item>건축학과</item>
+        <item>자율전공학과</item>
+    </string-array>
+</resources>
